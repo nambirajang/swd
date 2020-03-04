@@ -49,8 +49,8 @@ function HandleOnClick(obj) {
         switch(obj.id)
         {
             case "320Button":
-                vid_elm.width = 320;
-                vid_elm.height = 180;
+                vid_elm.width = 1280;
+                vid_elm.height = 720;
                 break;
             
             case "160Button":
