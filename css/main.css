@@ -1,19 +1,19 @@
-div#backgroundvideo {
-/*  height: 100%;
+/*div#backgroundvideo {
+  height: 100%;
   width: 70%;
-*/
+
   position: absolute;
   top: 10px;
   left: 10px;
   height: 498px;
   width: 885px;
   background-color: rgba(225, 225, 208, 0.1);
-}
+}*/
 
 div#chatpan1 {
   position: absolute;
   top: 10px;
-  right: 30px;
+  left: 30px;
   width: 320px;
   height: 180px;
   margin: auto;
